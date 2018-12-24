@@ -8,7 +8,6 @@
 #include <fcntl.h>
 #include <stdbool.h>
 #include "mylib.h"
-#include "ec.h"
 #include <signal.h>
 
 
